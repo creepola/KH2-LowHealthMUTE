@@ -1,0 +1,12 @@
+title: LowHealthMUTE
+originalAuthor: Creepola
+description: Mutes the Low Health Alarm.
+game: kh2
+dependencies: 
+assets:
+- name: se\se000.win32.scd
+  method: copy
+  platform: pc
+  package: kh2_first
+  source:
+  - name: se\se000.win32.scd
